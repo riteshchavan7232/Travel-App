@@ -35,3 +35,15 @@ Database: MySQL
 
 📌 Note
 This project was developed for learning and internship purposes. It runs locally and is not deployed online.
+
+
+
+
+
+
+
+
+Admin Email:
+admin@gmail.com
+Admin Password:
+Admin@123
